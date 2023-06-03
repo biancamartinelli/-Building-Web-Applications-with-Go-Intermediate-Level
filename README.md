@@ -27,5 +27,7 @@
 📍How to allow users to reset a password in a safe, secure manner
 
 📍How to integrate Stripe credit card processing with a Go back end
+
 📍Make one time or recurring payments with Stripe
+
 📍Best practices for making secure credit card transactions
